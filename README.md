@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+﻿# LoveRecord
+Love Record 一个照片轮播的动画网站，纪录了我们在一起的时间。
+=======
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Tyinggui/Tyinggui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +39,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> 9f0fb2017ce8c9bc3e88b4d9461d1aa0d09c6aa2
